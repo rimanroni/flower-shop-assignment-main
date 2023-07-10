@@ -59,3 +59,79 @@ padding: 24px 50px;
     top: 27px;
 }
 
+/* Main Part Start */
+
+main{
+    margin-top: 20px;
+    padding: 20px 40px;
+}
+
+.FlowersContent{
+    text-align: center;
+}
+.FlowersContent h2{
+    font-size: 28px;
+}
+
+.threeImgCard{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.imgCard{
+   background-color: red;
+   margin-top: 34px;
+   border-top-right-radius: 204px;
+   border-top-left-radius: 204px;
+   width: 347px;
+   height: 320px;
+   text-align: center;
+   padding-top: 57px;
+   padding-left: 10px;
+   padding-right: 10px;
+}
+.bgOne{
+   background-color: #F1DDE7;
+}
+.bgTwo{
+   background-color: #D9EFF0;
+}
+
+.bgThree{
+    background-color: #E3EBDB;
+}
+.imgCard img{
+    width: 310px;
+    height: 320px;
+ }
+
+ .imgCard p{
+    color: #272727;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 700;
+    text-decoration-line: underline;
+    margin-top: 30px;
+ }
+
+ .reviweLink{
+    background-color: #F4F4F4;
+    margin-top: 141px;
+    padding: 30px;
+ }
+
+ .imgIcon{
+    display: flex;
+    justify-content: space-around;
+ }
+
+ .imgItems{
+    text-align: center;
+ }
+ .imgItems p{
+    color: rgba(39, 39, 39, 0.80);
+    font-size: 15px;
+    margin-top: 8px;
+ }
