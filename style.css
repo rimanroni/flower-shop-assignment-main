@@ -63,7 +63,8 @@ padding: 24px 50px;
 
 main{
     margin-top: 20px;
-    padding: 20px 40px;
+    padding: 20px 40px 40px 40px;
+    padding-bottom: 40px;
 }
 
 .FlowersContent{
@@ -134,4 +135,50 @@ main{
     color: rgba(39, 39, 39, 0.80);
     font-size: 15px;
     margin-top: 8px;
+ }
+
+
+ .hotDeal{
+    background-color: #FDF6F8;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 30px;
+ }
+
+ .hotDealContent h2 span{
+    color: #ef5778;
+ }
+ .hotDealContent {
+    text-align: center;
+ }
+ .hotDealContent h2{
+    font-size: 33px;
+ }
+
+ .hotDealImg img{
+    width: 90%;
+    margin-top: 75px;
+ }
+
+
+ .instagramArea{
+    margin-top: 70px;
+ }
+ .shotTitle {
+    text-align: center;
+    padding-bottom: 20px;
+ }
+
+ .instagramPhotoGallary{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto;
+    padding: 28px 45px;
+ }
+
+ 
+ .photo img{
+    width: 84%;
  }
