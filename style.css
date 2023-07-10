@@ -182,3 +182,34 @@ main{
  .photo img{
     width: 84%;
  }
+
+ .latestDeals{
+    text-align: center;
+    padding: 30px 50px;
+ }
+ .latestDealsContainer{
+    background-image: url("img/Rectangle\ 9.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 123px 0px;
+ }
+
+ .latestDealsContainer h1{
+    font-size: 40px;
+ }
+
+ .latestDealsContainer input{
+    background-color: white;
+    border: none;
+    outline: none;
+    width: 241px;
+    height: 48px;
+    padding-left: 28px;
+    border-radius: 5px;
+ }
+
+ .latestDealsContainer button{
+    padding: 15px 31px;
+    font-size: 15px;
+ }
