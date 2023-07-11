@@ -67,6 +67,8 @@ main{
     padding-bottom: 40px;
 }
 
+
+/*  Our Featured Flowers */
 .FlowersContent{
     text-align: center;
 }
@@ -117,6 +119,9 @@ main{
     margin-top: 30px;
  }
 
+ /*  Reviwe Link  */
+
+
  .reviweLink{
     background-color: #F4F4F4;
     margin-top: 141px;
@@ -138,6 +143,8 @@ main{
  }
 
 
+
+ /*  Hot Deal Area  */
  .hotDeal{
     background-color: #FDF6F8;
     display: flex;
@@ -161,6 +168,8 @@ main{
     margin-top: 75px;
  }
 
+ /* instagram Area  */
+
 
  .instagramArea{
     margin-top: 70px;
@@ -183,6 +192,8 @@ main{
     width: 84%;
  }
 
+
+ /* latest Deals styles  */
  .latestDeals{
     text-align: center;
     padding: 30px 50px;
@@ -212,4 +223,21 @@ main{
  .latestDealsContainer button{
     padding: 15px 31px;
     font-size: 15px;
+ }
+
+
+ /* footer styles  */
+ footer{
+    text-align: center;
+    background-color: #111010;
+    padding: 100px 40px;
+    color: white;
+    margin-top: 40px;
+ }
+ footer h1 span{
+    color: #C74A65;
+ }
+
+ footer small{
+    color: rgba(255, 255, 255, 0.40);
  }
